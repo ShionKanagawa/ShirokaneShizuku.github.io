@@ -1,0 +1,24 @@
+下面整合一些你们刷机之后可能会用到的模块的链接：
+
+省着老是有人问！
+
+- Magisk（不推荐**使用任何**非官方版本，不推荐在新设备上使用 23.0）：[https://github.com/topjohnwu/Magisk/releases](https://github.com/topjohnwu/Magisk/releases)
+
+- LSPosed：[https://github.com/LSPosed/LSPosed/releases/](https://github.com/LSPosed/LSPosed/releases/)
+
+  Flyme 10 用户可能需要下载 CI 版本：[https://github.com/LSPosed/LSPosed/actions](https://github.com/LSPosed/LSPosed/actions)
+
+  或者在 [https://t.me/LSPosedArchives](https://t.me/LSPosedArchives) 下载
+
+- Shamiko（隐藏 Root 用，使用的时候**不要开启**“遵守排除列表”）：[https://github.com/LSPosed/LSPosed.github.io/releases](https://github.com/LSPosed/LSPosed.github.io/releases)
+
+- SafetyNetFix（修复 SafetyNet，如果遇到 Google 提示设备未通过验证，请刷入，这里提供的是 Displax 的修改版）：[https://github.com/Displax/safetynet-fix/releases](https://github.com/Displax/safetynet-fix/releases)
+
+- UniversalGMSDoze（允许休眠谷歌服务）：[https://github.com/gloeyisk/universal-gms-doze/releases/](https://github.com/gloeyisk/universal-gms-doze/releases/)
+
+- Lawnchair Magisk（类原生 Android 12/12L/13 可用）：
+  [https://www.pling.com/p/1980061](https://www.pling.com/p/1980061 ) 记得下载的是 Zip 模块
+
+- 指纹支付模块（由于索尼一直没有 IFAA 验证，所以无法在支付宝/微信上使用指纹支付，您可以通过下面这个模块来实现“指纹支付”）：[https://github.com/eritpchy/FingerprintPay/releases/](https://github.com/eritpchy/FingerprintPay/releases/)
+
+其他内容欢迎补充！
